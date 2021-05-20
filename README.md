@@ -55,4 +55,23 @@ ___
     - Then should able to delete the employee
 
     ___
+    ## Images and video
     
+![image](https://user-images.githubusercontent.com/14179472/118987666-d21fe900-b9c3-11eb-8059-85e1e62fecb5.png)
+
+![image](https://user-images.githubusercontent.com/14179472/118987816-f54a9880-b9c3-11eb-9073-5f0db0a871c4.png)
+
+![image](https://user-images.githubusercontent.com/14179472/118989744-9ede5980-b9c5-11eb-948d-fed4845c58c6.png)
+
+![image](https://user-images.githubusercontent.com/14179472/118989921-c503f980-b9c5-11eb-91bc-e6e70617da88.png)
+
+![image](https://user-images.githubusercontent.com/14179472/118990059-e6fd7c00-b9c5-11eb-8473-8f07f3743117.png)
+
+![image](https://user-images.githubusercontent.com/14179472/118990219-085e6800-b9c6-11eb-8057-5dad0f5c49ba.png)
+
+https://user-images.githubusercontent.com/14179472/118988247-5d997a00-b9c4-11eb-8bec-f0906c10454a.mov
+
+___
+
+URL: 
+- GitHub : https://github.com/and1roxx43/Employee-Tracker/
